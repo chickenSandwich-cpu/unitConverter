@@ -13,14 +13,19 @@ Welcome to the **Unit Converter**, the tool that helps you avoid **❌embarrassi
 4️⃣ **Profit📈** (not really, but at least you won’t mess up metric vs. imperial anymore😏😏).  
 
 ## 🔥 Features  
-✔ **Accurate😏 conversions** (probably😅).  
-✔ **Handles multiple unit types😦** so you **never🫨** have to Google “how much 60 mph would be in kmh?🤔” again.  
-✔ **Lightning-fast⚡⚡ calculations** because **your brain🧠 deserves a break🧊**.  
-✔ **Can convert Celsius to Fahrenheit faster than your AC can save you🤪🤪**  
+✔ **Accurate😏 conversions** (probably😅).
+
+✔ **Handles multiple unit types😦** so you **never🫨** have to Google “how much 60 mph would be in kmh?🤔” again.
+
+✔ **Lightning-fast⚡⚡ calculations** because **your brain🧠 deserves a break🧊**.
+
+✔ **Can convert Celsius to Fahrenheit faster than your AC can save you🤪🤪**
 
 ## 📌 Future Upgrades?  
-❓ **Adding➕➕ more obscure units?** (Like measuring distance in sandwiches🥪🤔).  
+❓ **Adding➕➕ more obscure units?** (Like measuring distance in sandwiches🥪🤔).
+
 ❓ **Building🧱 a GUI?** (If (demand ≥ supply)) {};
+
 ❓ **Making the UI look cooler🥶?** (To distract from math-induced pain💦🩹).  
 
 ## 📝 License  
