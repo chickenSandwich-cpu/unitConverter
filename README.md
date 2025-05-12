@@ -6,7 +6,7 @@ Welcome to the **Unit Converter**, the tool that helps you avoid **❌embarrassi
 ## 🔄 How It Works  
 1️⃣ **Pick a category** (Temperature, Time, Speed, etc.), more in future updates!👻
 
-2️⃣ **Enter your value** (like 100 Fahrenheit because you’re suffering in a heatwave 🌞).  
+2️⃣ **Enter your value** (like 100 Fahrenheit because you’re suffering in a heatwave🌞).  
 
 3️⃣ **Instantly🤯 get the converted unit** without crying😢 over formulas.  
 
